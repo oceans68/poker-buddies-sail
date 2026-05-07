@@ -7,8 +7,7 @@
 
 ## 🌐 Live App
 
-**[▶ פתח את האפליקציה](https://YOUR-USERNAME.github.io/poker-buddies-sail/)**
-
+**[▶ פתח את האפליקציה](https://github.com/oceans68/poker-buddies-sail/)**
 > Replace `YOUR-USERNAME` with your GitHub username after deploying.
 
 ---
